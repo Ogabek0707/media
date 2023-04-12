@@ -692,5 +692,141 @@
 
 
 @media (max-width: 447px) {
-    
+    .body{
+        width: 100%;
+        height: 50px;
+    }
+    .body img{
+        position: absolute;
+        left: 10px;
+        top: 15px;
+    }
+     .body .section{
+        position: absolute;
+        left: 140px;
+        top: 15px;
+    }
+    .body2{
+        position: absolute;
+        top: 50px;
+        width: 100%;
+    }
+    .body2 h1{
+        position: absolute;
+        top: -15px;
+        left: 10px;
+        font-size: 32px;
+    }
+    .body2 p{
+        position: absolute;
+        top: 30px;
+        left: 10px;
+        width: 420px;
+    }
+    .body2 button{
+        position: absolute;
+        left: 10px;
+        top: 130px;
+        height: 30px;
+        width: 337px;
+        padding: 6px 0 4px;
+    }
+    .body2 img{
+        position: absolute;
+        left: 100px;
+        top: 180px;
+        height: 260px;
+        width: 239px;
+    }
+    .body2 main p{
+        position: absolute;
+        left: 60px;
+        top: 400px;
+    }
+    .body3{
+        position: absolute;
+        width: 100%;
+        top: 550px;
+        height: 80px;
+    }
+    .body3 a img{
+        position: absolute;
+        top: 24px;
+        left: 6px;
+        width: 20px;
+        height: 24px;
+    }
+    .body3 header img{
+        position: absolute;
+        top: 26px;
+        left: 31px;
+        width: 72px;
+        height: 27px;
+    }
+    .body3 section img{
+        position: absolute;
+        top: 26px;
+        left: 109px;
+        width: 17px;
+        height: 24px;
+    }
+    .body3 nav img{
+        position: absolute;
+        top: 27px;
+        left: 132px;
+        width: 68.5px;
+        height: 24px;
+    }
+    .body3 div img{
+        position: absolute;
+        top: 26px;
+        left: 206px;
+        width: 73px;
+        height: 22.5;
+    }
+    .body3 aside img{
+        position: absolute;
+        top: 29px;
+        left: 285px;
+        width: 54px;
+        height: 19.5px;
+    }
+    .body3 p img{
+        position: absolute;
+        top: 24px;
+        left: 342px;
+        width: 23px;
+        height: 26px;
+    }
+    .body3 footer img{
+        position: absolute;
+        top: 22px;
+        left: 370px;
+        width: 66.5px;
+        height: 35px;
+    }
+    .section5 h1{
+        position: absolute;
+        top: -110px;
+        left: 140px;
+        font-size: 22px;
+    }
+    .section5 p{
+        position: absolute;
+        left: 10px;
+        top: -80px;
+        width: 210px;
+    }
+    .section2 img{
+        position: absolute;
+        top: -80px;
+        left: 190px;
+        width: 270px;
+        height: 290px;
+    }
+    .section2 p{
+        position: absolute;
+        top: 100px;
+        left: 150px;
+    }
 }
