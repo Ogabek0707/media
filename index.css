@@ -1,0 +1,696 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Montserrat&family=Poppins&family=Roboto&family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro:wght@600&display=swap');
+.body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 70px;
+    background: #6B6B6B;
+}
+.body img{
+    position: absolute;
+    top: 25px;
+    left: 134px;
+    cursor: pointer;
+}
+.body .section{
+    position: absolute;
+    top: 25px;
+    left: 1001px;
+}
+.section a{
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;  
+    margin-left: 30px;   
+    cursor: pointer; 
+}
+.section a:hover{
+    width: 70px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(241, 145, 145);
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.section a:active{
+    color: rgb(235, 183, 193);
+}
+
+
+
+
+.body2{
+    position: absolute;
+    height: 500px;
+    left: 0;
+    right: 0;
+    top: 70px;
+    background: #EBEBEB;
+}
+.body2 h1{
+    position: absolute;
+    top: 165px;
+    left: 134px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 45px;
+    color: #333333;    
+}
+.body2 p{
+    position: absolute;
+    top: 221px;
+    left: 134px;
+    width: 576px;
+    height: 52px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #333333;
+}
+.body2 button{
+    position: absolute;
+    left: 134px;
+    top: 313px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    padding: 15px 25px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.body2 img{
+    position: absolute;
+    top: 47px;
+    left: 879px;
+    cursor: pointer;
+}
+.body2 main p{
+    position: absolute;
+    width: 320px;
+    height: 42px;
+    left: 888px;
+    top: 384px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);   
+}
+
+
+
+
+
+
+
+.body3{
+    position: absolute;
+    height: 152px;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    top: 570px;
+    background: #D3D3D3;   
+}
+.body3 a img{
+    position: absolute;
+    top: 52px;
+    left: 144px;
+    cursor: pointer;
+}
+.body3 header img{
+    position: absolute;
+    top: 53px;
+    left: 252px;
+    cursor: pointer;
+}
+.body3 section img{
+    position: absolute;
+    top: 52px;
+    left: 411px;
+    cursor: pointer;
+}
+.body3 nav img{
+    position: absolute;
+    top: 52px;
+    left: 512px;
+    cursor: pointer;
+}
+.body3 div img{
+    position: absolute;
+    top: 52px;
+    left: 695px;
+    cursor: pointer;
+}
+.body3 aside img{
+    position: absolute;
+    top: 54px;
+    left: 894px;
+    cursor: pointer;
+}
+.body3 p img{
+    position: absolute;
+    top: 50px;
+    left: 1050px;
+    cursor: pointer;
+}
+.body3 footer img{
+    position: absolute;
+    top: 51px;
+    left: 1163px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.body4{
+    position: absolute;
+    top: 722px;
+    left: 0;
+    width: 100%;
+    height: 660px;
+}
+.section5 h1{
+    position: absolute;
+    left: 144px;
+    top: 119px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;    
+}
+.section5 p{
+    position: absolute;
+    height: 96px;
+    width: 509px;
+    left: 144px;
+    top: 169px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;    
+}
+.section2 img{
+    position: absolute;
+    top: 50px;
+    left: 878px;
+    cursor: pointer;
+}
+.body4 .section2 p{
+    position: absolute;
+    left: 955px;
+    top: 350px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #777777;   
+}
+.section3 h1{
+    position: absolute;
+    left: 730px;
+    top: 430px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+}
+.section3 p{
+    position: absolute;
+    left: 730px;
+    top: 480px;
+    width: 520px;
+    height: 72px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;   
+}
+.section4 img{
+    position: absolute;
+    top: 377px;
+    left: 302px;
+    cursor: pointer;
+}
+.section4 p{
+    position: absolute;
+    left: 320px;
+    top: 573px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    color: #777777;    
+}
+.section3 p span{
+    background-color: rgb(57, 57, 250);
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    color: #FFFFFF;    
+    padding: 6px 13px 6px 6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.body5{
+    position: absolute;
+    top: 1382px;
+    height: 806px;
+    width: 100%;
+    left: 0%;
+    right: 0%;
+    background: #EBEBEB;
+}
+.section6 {
+    text-align: center;
+}
+.section6 h1{
+    position: absolute;
+    left: 641px;
+    top: 89px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    color: #333333;  
+}
+.section6 p{
+    position: absolute;
+    left: 459px;
+    top: 146px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #333333;   
+}
+.section7 {
+    position: absolute;
+    margin: 200px 0 0 40%;
+}
+.section7 img{
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+}
+.section7 p{
+    position: absolute;
+    width: 314px;
+    top: 125px;
+    left: 10px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: center;
+    color: #777777;  
+}
+.section8{
+    position: absolute;
+    height: 316px;
+    width: 364px;
+    left: 134px;
+    top: 410px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;    
+}
+.section8 h1{
+    font-family: 'Roboto';
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;   
+}
+.section8 img{
+    position: absolute;
+    left: 132px;
+    top: 85px;
+    cursor: pointer;
+}
+.section8 p{
+    position: absolute;
+    width: 226px;
+    height: 60px;
+    left: calc(50% - 226px/2);
+    top: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;   
+}
+.section8 p span{
+    background-color: rgb(57, 57, 250);
+    border-radius: 2px;
+    color: white;
+    padding: 3px 1px;
+    cursor: pointer;
+}
+
+
+
+.section9{
+    position: absolute;
+    height: 316px;
+    width: 364px;
+    left: 528px;
+    top: 410px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;    
+}
+.section9 h1{
+    font-family: 'Roboto';
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;   
+}
+.section9 img{
+    position: absolute;
+    left: 132px;
+    top: 85px;
+    cursor: pointer;
+}
+.section9 p{
+    position: absolute;
+    width: 262px;
+    height: 60px;
+    left: calc(50% - 226px/2);
+    top: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;   
+}
+.section9 p span{
+    background-color: rgb(57, 57, 250);
+    border-radius: 2px;
+    color: white;
+    padding: 3px 1px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.section10{
+    position: absolute;
+    height: 316px;
+    width: 364px;
+    left: 902px;
+    top: 410px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;    
+}
+.section10 h1{
+    font-family: 'Roboto';
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;   
+}
+.section10 img{
+    position: absolute;
+    left: 132px;
+    top: 85px;
+    cursor: pointer;
+}
+.section10 p{
+    position: absolute;
+    width: 284px;
+    height: 60px;
+    left: calc(50% - 226px/2);
+    top: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;   
+}
+.section10 p span{
+    background-color: rgb(57, 57, 250);
+    border-radius: 2px;
+    color: white;
+    padding: 3px 1px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+.body6{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 2188px;
+    height: 589px;
+}
+.body6 h1{
+    position: absolute;
+    left: 134px;
+    top: 99px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333333;
+}
+.section11{
+    position: absolute;
+    width: 229px;
+    left: 134px;
+    top: 176px;
+}
+.section11 img{
+    margin-left: -50px;
+}
+.section11 h3{
+    position: absolute;
+    top: 210px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;    
+}
+.section11 p{
+    position: absolute;
+    top: 250.75px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #333333;   
+    width: 243px;
+}
+
+.section12{
+    position: absolute;
+    width: 242px;
+    left: 432px;
+    top: 176px;
+}
+.section12 img{
+    margin-left: -50px;
+}
+.section12 h3{
+    position: absolute;
+    top: 190px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;    
+}
+.section12 p{
+    position: absolute;
+    top: 230.75px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #333333;   
+    width: 232px;
+}
+
+
+.section13{
+    position: absolute;
+    width: 243px;
+    left: 730px;
+    top: 176px;
+}
+.section13 img{
+    margin-left: -50px;
+}
+.section13 h3{
+    position: absolute;
+    top: 130px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;    
+}
+.section13 p{
+    position: absolute;
+    top: 170.75px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #333333;   
+    width: 246px;
+}
+
+
+.section14{
+    position: absolute;
+    width: 240px;
+    left: 1028px;
+    top: 176px;
+}
+.section14 img{
+    margin-left: -50px;
+}
+.section14 h3{
+    position: absolute;
+    top: 160px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #333333;    
+}
+.section14 p{
+    position: absolute;
+    top: 200.75px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #333333;   
+    width: 250px;
+}
+
+
+
+.body7 {
+    position: absolute;
+    top: 2777px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100px;
+    background: #6B6B6B;
+}
+.body7 img{
+    position: absolute;
+    top: 42px;
+    left: 134px;
+    cursor: pointer;
+}
+.body7 .section{
+    position: absolute;
+    top: 42px;
+    left: 1001px;
+}
+.body7 .section a{
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;  
+    margin-left: 30px;   
+    cursor: pointer; 
+}
+.body7 .section a:hover{
+    width: 70px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(241, 145, 145);
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.body7 .section a:active{
+    color: rgb(235, 183, 193);
+}
+
+
+
+.body8{
+    position: absolute;
+    top: 2877px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 50px;
+    background: #111111;
+}
+.body8 div{
+    position: absolute;
+    left: 134px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #777777;    
+}
+
+
+@media (max-width: 447px) {
+    
+}
