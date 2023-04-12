@@ -703,7 +703,7 @@
     }
      .body .section{
         position: absolute;
-        left: 140px;
+        left: 130px;
         top: 15px;
     }
     .body2{
@@ -715,13 +715,14 @@
         position: absolute;
         top: -15px;
         left: 10px;
-        font-size: 32px;
+        font-size: 30px;
     }
     .body2 p{
         position: absolute;
         top: 30px;
         left: 10px;
-        width: 420px;
+        width: 370px;
+        font-size: 12px;
     }
     .body2 button{
         position: absolute;
@@ -733,21 +734,22 @@
     }
     .body2 img{
         position: absolute;
-        left: 100px;
+        left: 80px;
         top: 180px;
         height: 260px;
         width: 239px;
     }
     .body2 main p{
         position: absolute;
-        left: 60px;
+        left: 40px;
         top: 400px;
+        font-size: 12px;
     }
     .body3{
         position: absolute;
         width: 100%;
         top: 550px;
-        height: 80px;
+        height: 90px;
     }
     .body3 a img{
         position: absolute;
@@ -800,33 +802,292 @@
     }
     .body3 footer img{
         position: absolute;
-        top: 22px;
-        left: 370px;
+        top: 50px;
+        left: 160px;
         width: 66.5px;
         height: 35px;
     }
     .section5 h1{
         position: absolute;
-        top: -110px;
+        top: -90px;
         left: 140px;
         font-size: 22px;
     }
     .section5 p{
         position: absolute;
         left: 10px;
-        top: -80px;
-        width: 210px;
+        top: -45px;
+        width: 170px;
+        font-size: 12px;
     }
     .section2 img{
         position: absolute;
-        top: -80px;
-        left: 190px;
-        width: 270px;
-        height: 290px;
+        top: -50px;
+        left: 150px;
+        width: 260px;
+        height: 300px;
     }
-    .section2 p{
+    .body4 .section2 p{
+        position: absolute;
+        top: 200px;
+        left: 210px;
+        width: 150px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .section3 h1{
+        position: absolute;
+        top: 245px;
+        left: 60px;
+        font-size: 22px;
+    }
+    .section3 p{
+        left: 10px;
+        position: absolute;
+        top: 280px;
+        width: 370px;
+        font-size: 12px;
+    }
+    .section4 img{
+        position: absolute;
+        top: 390px;
+        left: 30px;
+    }
+    .section4 p{
+        position: absolute;
+        top: 590px;
+        left: 60px;
+        font-size: 12px;
+    }
+
+
+    .body5{
+        height: 1120px;
+    }
+    .section6 h1{
+        position: absolute;
+        left: 150px;
+        top: -10px;
+        font-size: 22px;
+    }
+    .section6 p{
+        position: absolute;
+        left: 20px;
+        top: 30px;
+        width: 350px;
+    }
+    .section7 img{
+        position: absolute;
+        top: -120px;
+        left: -150px;
+    }
+    .section7 p{
+        position: absolute;
+        top: 10px;
+        left: -140px;
+        font-size: 12px;
+    }
+    .section8{
+        position: absolute;
+        width: 230px;
+        height: 250px;
+        top: 280px;
+        left: 80px;
+    }
+    .section8 h1{
+        position: absolute;
+        top: -15px;
+        left: 90px;
+    }
+    .section8 img{
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 60px;
+        left: 75px;
+    }
+    .section8 p{
+        position: absolute;
+        top: 160px;
+        font-size: 12px;
+    }
+
+
+    .section9{
+        position: absolute;
+        width: 230px;
+        height: 250px;
+        top: 560px;
+        left: 80px;
+    }
+    .section9 h1{
+        position: absolute;
+        top: -15px;
+        left: 90px;
+    }
+    .section9 img{
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 60px;
+        left: 75px;
+    }
+    .section9 p{
+        position: absolute;
+        top: 140px;
+        width: 230px;
+        font-size: 12px;
+    }
+
+
+    .section10{
+        position: absolute;
+        width: 230px;
+        height: 250px;
+        left: 80px;
+        top: 840px;
+    }
+    .section10 h1{
+        position: absolute;
+        top: -15px;
+        left: 90px;
+    }
+    .section10 img{
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 60px;
+        left: 75px;
+    }
+    .section10 p{
+        position: absolute;
+        top: 160px;
+        font-size: 12px;
+        width: 230px;
+    }
+
+
+    .body6{
+        position: absolute;
+        top: 2502px;
+    }
+    .body6 h1{
+        position: absolute;
+        top: -10px;
+        left: 112px;
+        font-size: 22px;
+    }
+    .section11 img{
+        position: absolute;
+        top: -140px;
+        left: -7px;
+        width: 229px;
+        height: 163px;
+    }
+    .section11 h3{
+        position: absolute;
+        top: -30px;
+        left: -23px;
+        font-size: 16px;
+    }
+    .section11 p{
+        position: absolute;
+        top: -3px;
+        left: -23px;
+        font-size: 12px;
+        height: 56px;
+    }
+
+    .section12 img{
         position: absolute;
         top: 100px;
-        left: 150px;
+        left: -305px;
+        width: 229px;
+        height: 163px;
+    }
+    .section12 h3{
+        position: absolute;
+        top: 210px;
+        left: -322px;
+        font-size: 16px;
+    }
+    .section12 p{
+        position: absolute;
+        top: 235px;
+        left: -322px;
+        font-size: 12px;
+        height: 56px;
+    }
+
+    .section13 img{
+        position: absolute;
+        top: 330px;
+        left: -605px;
+        width: 229px;
+        height: 163px;
+    }
+    .section13 h3{
+        position: absolute;
+        top: 425px;
+        left: -622px;
+        font-size: 16px;
+    }
+    .section13 p{
+        position: absolute;
+        top: 450px;
+        left: -622px;
+        font-size: 12px;
+        height: 56px;
+    }
+
+    .section14 img{
+        position: absolute;
+        top: 575px;
+        left: -905px;
+        width: 229px;
+        height: 163px;
+    }
+    .section14 h3{
+        position: absolute;
+        top: 680px;
+        left: -922px;
+        font-size: 16px;
+    }
+    .section14 p{
+        position: absolute;
+        top: 705px;
+        left: -922px;
+        font-size: 12px;
+        height: 56px;
+    }
+
+
+
+    .body7{
+        position: absolute;
+        top: 3550px;
+        height: 70px;
+    }
+    .body7 img{
+        position: absolute;
+        left: 10px;
+        top: 25px;
+    }
+     .body7 .section{
+        position: absolute;
+        left: 130px;
+        top: 25px;
+    }
+
+
+    .body8{
+        position: absolute;
+        top: 3620px;
+    }
+    .body8 div{
+        position: absolute;
+        left: 10px;
+        text-align: center;
+        top: 5px;
     }
 }
