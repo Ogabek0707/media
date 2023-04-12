@@ -713,9 +713,10 @@
     }
     .body2 h1{
         position: absolute;
-        top: -15px;
-        left: 10px;
+        top: -20px;
+        left: 2px;
         font-size: 30px;
+        text-align: center;
     }
     .body2 p{
         position: absolute;
@@ -879,12 +880,12 @@
     .section7 img{
         position: absolute;
         top: -120px;
-        left: -150px;
+        left: -130px;
     }
     .section7 p{
         position: absolute;
         top: 10px;
-        left: -140px;
+        left: -120px;
         font-size: 12px;
     }
     .section8{
