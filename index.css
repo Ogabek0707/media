@@ -696,7 +696,7 @@
 
 @media (max-width: 447px) {
     .body{
-        width: 100%;
+        width: 447px;
         height: 50px;
     }
     .body img{
@@ -712,7 +712,7 @@
     .body2{
         position: absolute;
         top: 50px;
-        width: 100%;
+        width: 447px;
     }
     .body2 h1{
         position: absolute;
@@ -751,7 +751,7 @@
     }
     .body3{
         position: absolute;
-        width: 100%;
+        width: 447px;
         top: 550px;
         height: 90px;
     }
@@ -867,6 +867,7 @@
 
     .body5{
         height: 1120px;
+        width: 447px;
     }
     .section6 h1{
         position: absolute;
@@ -1071,6 +1072,7 @@
         position: absolute;
         top: 3550px;
         height: 70px;
+        width: 447px;
     }
     .body7 img{
         position: absolute;
@@ -1087,6 +1089,7 @@
     .body8{
         position: absolute;
         top: 3620px;
+        width: 447px;
     }
     .body8 div{
         position: absolute;
@@ -1104,7 +1107,7 @@
 
 @media (min-width: 447px) and (max-width: 769px) {
     .body{
-        width: 100%;
+        width: 769px;
         height: 60px;
     }
     .body img{
@@ -1120,7 +1123,7 @@
     .body2{
         position: absolute;
         top: 50px;
-        width: 100%;
+        width: 769px;
     }
     .body2 h1{
         position: absolute;
@@ -1156,7 +1159,7 @@
     }
     .body3{
         position: absolute;
-        width: 100%;
+        width: 769px;
         top: 550px;
         height: 100px;
     }
@@ -1252,6 +1255,7 @@
 
     .body5{
         height: 900px;
+        width: 769px;
     }
     .section6 h1{
         position: absolute;
@@ -1439,7 +1443,7 @@
 
 
     .body7{
-        width: 100%;
+        width: 769px;
         height: 60px;
         position: absolute;
         top: 3012px;
@@ -1459,6 +1463,7 @@
     .body8{
         position: absolute;
         top: 3072px;
+        width: 769px;
     }
     .body8 div{
         position: absolute;
@@ -1473,7 +1478,7 @@
 
 @media (min-width: 769px) and (max-width: 990px) {
     .body{
-        width: 100%;
+        width: 990px;
     }
     .body img{
         position: absolute;
@@ -1488,7 +1493,7 @@
     .body2{
         position: absolute;
         top: 50px;
-        width: 100%;
+        width: 990px;
     }
     .body2 h1{
         position: absolute;
@@ -1517,7 +1522,7 @@
     }
     .body3{
         position: absolute;
-        width: 100%;
+        width: 990px;
         top: 550px;
         height: 120px;
     }
@@ -1604,6 +1609,7 @@
 
     .body5{
         height: 650px;
+        width: 990px;
     }
     .section6 h1{
         position: absolute;
@@ -1788,7 +1794,7 @@
 
 
     .body7{
-        width: 100%;
+        width: 990px;
         height: 60px;
         position: absolute;
         top: 2832px;
@@ -1808,6 +1814,7 @@
     .body8{
         position: absolute;
         top: 2892px;
+        width: 990px;
     }
     .body8 div{
         position: absolute;
@@ -1824,7 +1831,7 @@
 
 @media (min-width: 990px) and (max-width: 1236px) {
     .body{
-        width: 100%;
+        width: 1236px;
     }
     .body img{
         position: absolute;
@@ -1839,7 +1846,7 @@
     .body2{
         position: absolute;
         top: 50px;
-        width: 100%;
+        width: 1236px;
     }
     .body2 h1{
         position: absolute;
@@ -1865,7 +1872,7 @@
     }
     .body3{
         position: absolute;
-        width: 100%;
+        width: 1236px;
         top: 550px;
         height: 130px;
     }
@@ -1956,6 +1963,7 @@
 
     .body5{
         height: 650px;
+        width: 1236px;
     }
     .section6 h1{
         position: absolute;
@@ -2137,7 +2145,7 @@
 
 
     .body7{
-        width: 100%;
+        width: 1236px;
         height: 60px;
         position: absolute;
         top: 2832px;
@@ -2157,6 +2165,7 @@
     .body8{
         position: absolute;
         top: 2892px;
+        width: 1236px;
     }
     .body8 div{
         position: absolute;
